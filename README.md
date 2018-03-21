@@ -6,4 +6,9 @@
  </h1>
  <h4 align="center">First Discord wide API to protect your Discord Bot from malicious Guilds</h4>
 
+# Actual Repos
+https://github.com/Daniele122898/Project-Aegis-Website
+https://github.com/Daniele122898/Project-Aegis-Api
 
+# What is this?
+This was just a repo to track issues for myself. You can ignore this
